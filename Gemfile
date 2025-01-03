@@ -15,3 +15,4 @@ gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "csv" # Add this line to include the csv gem
 gem "base64"
+gem "ffi"
